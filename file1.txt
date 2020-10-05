@@ -1,0 +1,1 @@
+Cat will read whatever is inputed from my keepboard. After reading it, it then converts to stdout which is isntatly redirected to file1.txt. Until I press CTRL +D
